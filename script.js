@@ -122,7 +122,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 
 yesBtn.addEventListener('click', () => {
     title.innerHTML = "YEYY!! i knew you would say vqsghvwegdsbjs";
-    document.querySelector('img').src = "https://drive.google.com/file/d/1LYAXijJS2uJ5qv9vIFLW0fi8h2wFpNqj/view?usp=drivesdk";
+    document.querySelector('img').src = "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22file-9QWro6WHjfZrGe1JCKAKPS.webp%22%2C%22type%22%3A%22image%2Fwebp%22%2C%22signedurl_expire%22%3A%222028-02-24T11%3A05%3A29.695Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F924bbe8efd20469e%2Ffile-9QWro6WHjfZrGe1JCKAKPS.webp%3FExpires%3D1835003130%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3D0xm8Pb8YMe6GBWvmSeBWwB2z71HcqmiNVTX7STwfhJbvMmKVKrkIKtSQGJKr01mUWFE3KtbglCrfthgMtXek904PrCUBAteY0UCXmCtLPRH1MlePUzBOOJsTM3pyA2QFQQowyuHlQHv8T00QTfbZZGI-uNzX8rXq01uPThcEIvZVTKWWt3aqEfbFoImdM0Zd8O0xTPusnv-AWhzxS5o5iTsvZmAPlCMIraZz6KBKNV8HoUXPdxKwhjNNoTitW~KV4wA33p9EQc-JS5~ijJo73fLTrz2knGwC814YXKlaWNLxCtXLhUPFwMUW-Jdh3KRXRf5CMfdcBxUjA3VMMdd1jQ__%22%7D";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
