@@ -16,7 +16,7 @@ const messages = [
         image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
-        text: "last, kalau \"no\" dahlah",
+        text: "last, kalau \"taknak\" dahlah",
         image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
     },
 ];
