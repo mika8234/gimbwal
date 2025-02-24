@@ -13,7 +13,7 @@ const messages = [
     },
     {
         text: "hmmm",
-        image: ""
+        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
         text: "last, kalau \"no\" dahlah",
