@@ -9,7 +9,7 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "hmm",
-        image: "https://pin.it/24Oi0XON1"
+        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
         text: "hmmm",
