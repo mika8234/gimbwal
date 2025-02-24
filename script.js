@@ -13,11 +13,12 @@ const messages = [
     },
     {
         text: "hmmm",
-        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
+        image: ""
     },
     {
         text: "last, kalau \"no\" dahlah",
-    }
+        image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
+    },
 ];
 
 function createHeart() {
